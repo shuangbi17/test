@@ -1,1 +1,2 @@
 This is file2
+The file is different from file1
